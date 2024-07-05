@@ -1,0 +1,19 @@
+{
+  "bot_config": {
+      "server_id": 1258754289401069588,
+      "prefix": "/",
+      "token": "MTE1NTUyOTQ3NDQyNzg1OTA2NQ.GydT1_.LM-n-J-GDZAxwhcru9MgB6rPx41GA0eOOGqiOQ",
+      "channel": 1258754290097455131
+
+  },
+  "tfollow": {
+    "Member": 50,
+    "Bronze": 75,
+    "Silver": 150,
+    "Server Booster": 125,
+    "Gold": 175,
+    "Diamond": 250,
+    "Premium": 500,
+    "Premium+": 1000
+  }
+} 

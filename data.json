@@ -1,0 +1,35 @@
+{
+    "Generator": {
+        "Count": "1"
+    },
+    "Integrity": {},
+    "Followers": {
+        "Username": "ttvwater2250",
+        "Count": "10000"
+    },
+    "Unfollower": {
+        "Username": "xxxxx",
+        "Count": "10000"
+    },
+    "SpamPoints": {
+        "Username": "xxxxx",
+        "Message": "test",
+        "Cost": "0",
+        "Count": "10000"
+    },
+    "Messages": {
+        "Username": "aaronpogson",
+        "Message": "test",
+        "Count": "1"
+    },
+    "Checker": {},
+    "Viewers": {
+        "Username": "xxxxx",
+        "Delay": "0",
+        "Threads": "200"
+    },
+    "Report": {
+        "Username": "happygnome22",
+        "Count": "10000"
+    }
+}
